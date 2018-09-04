@@ -318,4 +318,25 @@ footer .texto-rodape {
 
 .boo{
     width: 40px;
+    opacity: 0.5;
+    position: absolute;
+}
+
+.boo:hover{
+    opacity: 1;
+}
+
+#boo1{
+  bottom: 200px;
+  right: 200px; 
+}
+
+#boo2{
+  top: 50px;
+  left: 200px; 
+}
+
+#boo3{
+  bottom: 130px;
+  left: 300px; 
 }
